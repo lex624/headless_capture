@@ -1,0 +1,9 @@
+*.exe
+*.dll
+*.pdb
+*.log
+bin/
+obj/
+.DS_Store
+.vscode/
+captures/
